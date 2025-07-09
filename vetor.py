@@ -23,6 +23,11 @@ vetor.remove("b")
 del vetor[2]
 #print(vetor)
 
+#Remove elemento pela posição
+frutas = ["Morango", "Maçã", "Banana", "Pêra", "Kiwi", "Pitaya", "Jaca"]
+frutas.pop(2)
+#print(frutas)
+
 #Atualizar elementos
     #Atribui um novo valor para posição específica / substituindo 
 vetor[0] = "LC"
