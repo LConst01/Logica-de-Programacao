@@ -1,7 +1,7 @@
 #ler 10 números e imprimir a soma, o maior e menor
 numeros = []
 def ler_numero():
-    soma= 0
+    soma = 0
     maior = None
     menor = None # None: não tem nunhum valor definido / valor indefinido
     

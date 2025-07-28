@@ -1,0 +1,1 @@
+#dicionário são conjuntos de valores, onde cada valor é associado a uma chave de acesso 
